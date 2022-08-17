@@ -1,15 +1,15 @@
 <div align=center> 
   <p>
   <a href="https://houuuuu.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:francejw@gmail.com" target="_blank"><img src="https://img.shields.io/badge/francejw@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:whdudfo0124@gmail.com" target="_blank"><img src="https://img.shields.io/badge/whdudfo0124@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
 </p>
 <p>
-  Hello I am a new developer.<br/>
-  My goal is to develop services that will make life easier.. ✨ <br/><br/>
+ .안녕하세요 개발자 조영래입니다,<br/>
+  저는 소통과 협업을 제일 중요시 여기는 개발자입니다.✨ <br/><br/>
 </p>
 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JayYoon0412&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayYoon0412&layout=compact&hide_border=true&theme=white)
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=25rae25&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=25rae25&layout=compact&hide_border=true&theme=white)
   
  
 
