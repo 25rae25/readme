@@ -1,6 +1,6 @@
 <div align=center> 
   <p>
-  <a href="https://houuuuu.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://velog.io/@niceyoungrae/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:whdudfo0124@gmail.com" target="_blank"><img src="https://img.shields.io/badge/whdudfo0124@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
 </p>
